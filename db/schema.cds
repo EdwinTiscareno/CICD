@@ -58,6 +58,5 @@ key code: String enum {
     low = 'L'; 
 };
 }
-
 type EMailAddress : String;
 type PhoneNumber : String;
